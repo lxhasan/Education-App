@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/blankFragment"
+        android:title="Featured"
+        android:icon="@drawable/featured"
+        />
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="My learning"
+        android:icon="@drawable/mylearning"
+        />
+
+    <item
+        android:id="@+id/aboutFragment"
+        android:title="Wisshlist"
+        android:icon="@drawable/wishlist"
+        android:menuCategory="secondary"
+        />
+
+    <item
+        android:id="@+id/bookmenuFragment3"
+        android:title="Account"
+        android:icon="@drawable/account"
+        android:menuCategory="secondary"
+        />
+
+</menu>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@id/homeFragment"
+        android:title="Academic"
+        android:icon="@drawable/home"
+        android:menuCategory="secondary"
+        />
+    <item
+        android:id="@+id/bookmenuFragment"
+        android:title="ProfessionalAdmission"
+        android:icon="@drawable/about"
+        android:menuCategory="secondary"
+        />
+    <item
+        android:id="@+id/aboutFragment"
+        android:title="JobsMusic"
+        android:icon="@drawable/bookmarks"
+        android:menuCategory="secondary"
+        />
+    <item
+        android:id="@+id/OthersBlog"
+        android:title="OthersBlog"
+        android:icon="@drawable/bookmarks"
+        android:menuCategory="secondary"
+        />
+
+</menu>
+
